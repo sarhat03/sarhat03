@@ -37,9 +37,11 @@ I like building across the stack and figuring out how the pieces connect. There'
 [![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge&logo=launchdarkly&logoColor=white)](https://launchdarkly.com/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
+ <!--
 ### 🚧 Currently building
 
 - **titan-bids** — a real-time auction app built with Next.js and WebSocket bidding. *(link coming soon)*
+-->
 
 ### 🤝 Connect with me
 
